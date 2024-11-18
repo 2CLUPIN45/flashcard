@@ -3,7 +3,8 @@ criaCartao(
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
-
+/* Rafa.ramos.2c.20/10/2024
+*/
 criaCartao(
     'Geografia',
     'Qual a capital da França?',
